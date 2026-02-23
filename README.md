@@ -31,4 +31,4 @@ DonationAlerts (поддержка): https://www.donationalerts.com/r/awsawe_123
 
 Email: awsawe.server.official@gmail.com
 
-**awsawe-server-** — делаем качественные клиенты для всех платформ 🚀
+**awsawe-server** — делаем качественные клиенты для всех платформ 🚀
