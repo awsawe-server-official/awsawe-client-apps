@@ -26,7 +26,9 @@
 Если вам интересно то, что я делаю — заходите на стримы:
 
 Twitch: https://www.twitch.tv/awsawe_1234
+
 DonationAlerts (поддержка): https://www.donationalerts.com/r/awsawe_1234_official
+
 Email: awsawe.server.official@gmail.com
 
 **awsawe-server-** — делаем качественные клиенты для всех платформ 🚀
